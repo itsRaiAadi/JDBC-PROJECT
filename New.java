@@ -5,6 +5,6 @@ class New
 		System.out.println("Aditya Rai");
 		System.out.println("Nidhi");
 		System.out.println("Domar");
-		System.out.println("Sonu");
+		System.out.println("Ankit");
 	}
 }
